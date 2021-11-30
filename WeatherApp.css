@@ -1,0 +1,38 @@
+#titleArea{
+    border: 1px solid black;
+    padding: auto;
+    margin: auto;
+    align-self: center;    
+    height: 25%;
+    background-color: lightblue;
+}
+#mainDisplay{
+    
+    min-height: 500px;
+    width: 55%;
+    border: 3px solid black;
+    align-self: center;
+    padding: auto;
+    margin: auto;
+    background-color: lightgray;
+    
+}
+div h2{
+    
+    color: red;
+    border: 1px solid black;
+    width: 49%;
+    
+    float: left;
+    text-align: center;
+    
+    
+}
+div h3{
+   
+    width: 49%;
+    
+    float: left;
+    text-align: center;
+}
+
